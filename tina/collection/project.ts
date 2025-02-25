@@ -1,14 +1,14 @@
 import { videoBlockSchema } from "@/components/blocks/video";
 import type { Collection } from "tinacms";
 
-const Post: Collection = {
-  label: "Blog posts",
-  name: "post",
-  path: "content/posts",
+const Project: Collection = {
+  label: "Projects",
+  name: "project",
+  path: "content/projects",
   format: "mdx",
   ui: {
     router: ({ document }) => {                  
-      return `/posts/${document._sys.breadcrumbs.join("/")}`;
+      return `/projects/${document._sys.breadcrumbs.join("/")}`;
     },
   },
   fields: [
@@ -117,4 +117,4 @@ const Post: Collection = {
   ],
 };
 
-export default Post;
+export default Project;

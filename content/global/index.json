@@ -1,11 +1,11 @@
 {
   "header": {
     "icon": {
-      "name": "Tina",
+      "name": "banzueloles",
       "color": "orange",
       "style": "float"
     },
-    "name": "Tina Starter",
+    "name": "Les Banzuelo",
     "color": "default",
     "nav": [
       {
@@ -19,6 +19,10 @@
       {
         "href": "posts",
         "label": "Blog"
+      },
+      {
+        "href": "projects",
+        "label": "Projects"
       }
     ]
   },
@@ -26,11 +30,11 @@
     "color": "default",
     "social": {
       "facebook": "",
-      "twitter": "https://x.com/TinaCMS",
+      "twitter": "https://x.com/banzueloles",
       "instagram": "",
-      "linkedIn": "https://www.linkedin.com/company/tinacms",
-      "github": "https://github.com/tinacms/tinacms",
-      "youtube": "https://www.youtube.com/@TinaCMS"
+      "linkedIn": "https://www.linkedin.com/banzueloles",
+      "github": "https://github.com/banzueloles/banzueloles",
+      "youtube": "https://www.youtube.com/@banzueloles"
     }
   },
   "theme": {
