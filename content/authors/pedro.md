@@ -1,5 +1,5 @@
 ---
-name: Pedro
-avatar: /uploads/llama-6.avif
+name: Les Banzuelo
+avatar: /uploads/test.jpeg
 ---
 
